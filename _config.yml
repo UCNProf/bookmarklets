@@ -1,0 +1,7 @@
+title: Bookmarklets
+description: >-
+  This site presents "usefull" Bookmarklets
+url: "https://ucnprof.github.io/bookmarklets"
+collections:
+  bookmarklets:
+    output: false
