@@ -11,4 +11,4 @@ script: >-
   })();
 ---
 
-This bookmarklet can be used for the site [UCN Student Management Portal](https://ucnstudents.ondni.com) to create an email in MS Office 365.
+This bookmarklet can be used for the site [UCN Student Management Portal](https://ucnstudents.ondni.com) to create an email in MS Office 365 to the selected students.

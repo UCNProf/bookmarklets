@@ -11,4 +11,4 @@ script: >-
   })();
 ---
 
-This bookmarklet can be used for the site [UCN Student Management Portal](https://ucnstudents.ondni.com) to create a meeting on MS Teams.
+This bookmarklet can be used for the site [UCN Student Management Portal](https://ucnstudents.ondni.com) to create a meeting on MS Teams with the selected students.
