@@ -12,7 +12,7 @@ Most of them are only useful in the context of [UCN](https://ucn.dk).
   <header>
     <h3>{{ bml.title }}</h3>
   </header>
-  <div class="bml-btn"><a href="{{ bml.script }}">{{ bml.title }}</a></div>
+  <div class="bml-btn"><a href="{{ bml.script | escape_once }}">{{ bml.title }}</a></div>
   <div class="bml-content">
     {{ bml.content | markdownify}}
   </div>
