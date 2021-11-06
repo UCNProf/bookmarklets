@@ -7,4 +7,4 @@ script: >-
   })();
 ---
 
-This bookmarklet can be used for the site [UCN Student Management Portal](https://ucnstudents.ondni.com).
+This bookmarklet can be used for the site [UCN Student Management Portal](https://ucnstudents.ondni.com) to get a semicolon separated list of emails.
