@@ -2,7 +2,7 @@
 title: Create a MS Teams Meeting
 script: >-
   javascript:(function(){
-    let emails = userResults.map(st => st.Value.Email);
+    let emails = selectedusers.map(id => userResults.find(st => st.Key == id )).map(st => st.Value.Email);
     if(emails.length > 0){
       window.open(`https://teams.microsoft.com/l/meeting/new?attendees=${emails.join(',')}`);
     }else{
