@@ -1,5 +1,5 @@
 ---
-title: Chat on MS Teams
+title: Chat on MS Teams (group)
 script: >-
   javascript:(function(){
     let emails = userResults.map(st => st.Value.Email);
